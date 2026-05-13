@@ -7,10 +7,6 @@ _Automatically synced with your [v0.app](https://v0.app) deployments_
 
 ## Ove
 
-Continue building your app on:
-
-**[https://v0.app/chat/projects/MeEMlQsYmd6](https://v0.app/chat/projects/MeEMlQsYmd6)**
-
 ## How It Works
 
 1. Create and modify your project using [v0.app](https://v0.app)
