@@ -1,1 +1,1 @@
-install all dependances and packages.
+ds
