@@ -349,3 +349,6 @@ Contributions are welcome! Please feel free to submit a **Pull Request**.
 ---
 
 **Crafted with mindfulness** | © 2025 Calm. All rights reserved.
+---
+
+Built by Girish Lade — https://ladestack.in
